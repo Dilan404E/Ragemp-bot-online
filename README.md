@@ -25,6 +25,6 @@
 ------------
 
 
-# Вторая версия
+# Second version
 In the second version, I added the display of your server name in the bot status and changing the bot's nickname automatically to the name of your server.
 ![]({{site.baseurl}}/https://i.imgur.com/LDusYRJ.png)
